@@ -1,0 +1,100 @@
+.bgimg{
+    background-image:url("https://res.cloudinary.com/dfmkbhcdt/image/upload/v1669707032/yangskitchen_home_kguybi.jpg") ;
+    background-size: cover;
+    height:600px;
+}
+.head{
+    text-align: center;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    padding: 10px;
+}
+.head1{
+    text-align: center;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    padding: 10px;
+}
+.para{
+    text-align: center;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    padding: 10px;
+}
+.navbar-brand{
+    text-align: left;
+}
+.button1{
+    text-align: center;
+    height: 60px;
+    width: 200px;
+    padding: 15px;
+    font-weight: bold;
+}
+.button1:hover{
+    background-color: lightgrey;
+    color: black;
+}
+.button2:hover{
+    background-color: lightgrey;
+    color: black;
+}
+.button2{
+    text-align: center;
+    height: 60px;
+    width: 500px;
+    padding: 15px;
+    font-weight: bold;
+}
+.stylelogo{
+    text-align: center;
+    height: 100px;
+}
+.bgimg2{
+    text-align: center;
+    height:150px ;
+}
+.chead {
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+    font-weight: bold;
+}
+.cpara {
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+.pic1{
+    height: 400px;
+    
+    width: 600px;   
+}
+.pic2{
+    height:500px;
+    
+    width:400px ;
+} 
+.paras{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    font-weight: normal;
+    color: black;
+}
+.pic3{
+    height: 200px;
+    
+    width: 200px;  
+}
+.img1{
+    background-size: cover;
+    height: 100vh;
+    width: 180vh;
+}
+.cardimage{
+    width: 87px;
+    height: 90px;
+}
